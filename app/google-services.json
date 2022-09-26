@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "612542666031",
+    "project_id": "autocolimetro-53fc8",
+    "storage_bucket": "autocolimetro-53fc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612542666031:android:c6668d41bf61f4f792fdda",
+        "android_client_info": {
+          "package_name": "com.example.autocolimetro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612542666031-bmo0ips5p95oolml962p6hv7or7d0sdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzsOuCzUDAqDJ5M4M6lC-dTPDTUQGD83U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612542666031-bmo0ips5p95oolml962p6hv7or7d0sdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612542666031:android:0644446f3a887e6c92fdda",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.autocolimetro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612542666031-bmo0ips5p95oolml962p6hv7or7d0sdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzsOuCzUDAqDJ5M4M6lC-dTPDTUQGD83U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612542666031-bmo0ips5p95oolml962p6hv7or7d0sdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612542666031:android:37fde8f1bde52f5292fdda",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.autocolimetro_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612542666031-bmo0ips5p95oolml962p6hv7or7d0sdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzsOuCzUDAqDJ5M4M6lC-dTPDTUQGD83U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612542666031-bmo0ips5p95oolml962p6hv7or7d0sdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
